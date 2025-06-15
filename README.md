@@ -48,7 +48,7 @@ Where:
 
 ### Without Vaccination:
 
-![SIR without Vaccination Plot]("S:\Trainings\Model Building & Visualization Materials\Models\Simple (SIR) Model\Modelling-for-Influenza\SIR_model_diagram.png")
+![SIR without Vaccination Plot](https://github.com/C-Nyakundi/Modelling-for-Influenza/blob/main/SIR_model_diagram.png)
 
 ### With Vaccination:
 
