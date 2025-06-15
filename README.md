@@ -110,7 +110,7 @@ source("sir_model.R")  # or run line-by-line from the script
 
 ---
 
-## Future Plans
+## What to do next
 
 * Add **delayed or time-dependent vaccination**
 * Model **waning immunity**
