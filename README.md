@@ -52,7 +52,7 @@ Where:
 
 ### With Vaccination:
 
-![SIR with Vaccination Plot]("S:\Trainings\Model Building & Visualization Materials\Models\Simple (SIR) Model\Modelling-for-Influenza\sir_simulation_model.R")
+![SIR with Vaccination Plot](https://github.com/C-Nyakundi/Modelling-for-Influenza/blob/main/SIR_model_vaccination.png)
 
 ---
 
@@ -79,7 +79,7 @@ source("sir_model.R")  # or run line-by-line from the script
 * The number of susceptible individuals decreases due to infection.
 * Infected cases rise sharply then fall as people recover.
 * Recovered population increases gradually.
-![SIR without Vaccination Plot]("S:\Trainings\Model Building & Visualization Materials\Models\Simple (SIR) Model\Modelling-for-Influenza\SIR Model for influenza.jpeg")
+![SIR without Vaccination Plot](https://github.com/C-Nyakundi/Modelling-for-Influenza/blob/main/SIR%20Model%20for%20influenza.jpeg)
 
 
 ### 2. SIR Model With Vaccination
@@ -88,9 +88,9 @@ source("sir_model.R")  # or run line-by-line from the script
 * Infection peak is lower and occurs earlier.
 * Recovered group increases rapidly through both recovery and vaccination.
 
-![SIR with Vaccination Plot]("S:\Trainings\Model Building & Visualization Materials\Models\Simple (SIR) Model\Modelling-for-Influenza\SIR Model with vaccination.jpeg")
+![SIR with Vaccination Plot](https://github.com/C-Nyakundi/Modelling-for-Influenza/blob/main/SIR%20Model%20with%20vaccination.jpeg)
 
-*Note: All plots use hypothetical data and are generated purely for learninh demonstration.*
+*Note: All plots use hypothetical data and are generated purely for learning.*
 
 ---
 
